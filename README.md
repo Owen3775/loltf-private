@@ -3,6 +3,7 @@
 [ + ] Changed stuff at loop                                                                                                                                                
 [ + ] Updated UWorld and BoneArray
 
-                                                                                                                                                                                                                                                                                                                                                    
-Need help?
-Join our discord server ->  https://discord.gg/officialcc
+
+sike i wish i never took these out though
+
+                                                                                                                                                                                                                                                                                                                                                   
